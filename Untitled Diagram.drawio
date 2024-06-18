@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T08:46:01.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="vQ3qkJ-ydStElri7knOZ" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T09:26:35.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="7Y_UOGaKBcwZWN30OeLJ" version="24.5.5" type="github">
   <diagram name="Page-1" id="m32Fnv55mtQtTgW1gott">
     <mxGraphModel dx="719" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RUjL3g7LCfOquGMd1GLj-75" value="- We will not rewrite DPTA in one shot" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="RUjL3g7LCfOquGMd1GLj-69">
-          <mxGeometry y="39.846130523762604" width="179.1111111111111" height="35.08474576271186" as="geometry" />
+          <mxGeometry y="41.846130523762604" width="179.1111111111111" height="35.08474576271186" as="geometry" />
         </mxCell>
         <mxCell id="RUjL3g7LCfOquGMd1GLj-76" value="- We will not enlarge technical debts" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="RUjL3g7LCfOquGMd1GLj-69">
-          <mxGeometry y="65.43083453346472" width="179.1111111111111" height="35.08474576271186" as="geometry" />
+          <mxGeometry y="69.43083453346472" width="179.1111111111111" height="35.08474576271186" as="geometry" />
         </mxCell>
         <mxCell id="RUjL3g7LCfOquGMd1GLj-77" value="- We will not only focus on DPTA new app&#xa;  implementation " style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="RUjL3g7LCfOquGMd1GLj-69">
           <mxGeometry y="90.38944895020087" width="192.88888888888886" height="70.16949152542372" as="geometry" />
@@ -33,16 +33,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RUjL3g7LCfOquGMd1GLj-81" value="- Gracefully modernization approach" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="RUjL3g7LCfOquGMd1GLj-79">
-          <mxGeometry y="39.846130523762604" width="179.1111111111111" height="30" as="geometry" />
+          <mxGeometry y="41.846130523762604" width="179.1111111111111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUjL3g7LCfOquGMd1GLj-82" value="- Design foundation for future" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="RUjL3g7LCfOquGMd1GLj-79">
-          <mxGeometry y="65.43083453346472" width="179.1111111111111" height="30" as="geometry" />
+          <mxGeometry y="70.43083453346472" width="179.1111111111111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUjL3g7LCfOquGMd1GLj-83" value="- Delivery on time with good quality always be &#xa;  highest priority" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="RUjL3g7LCfOquGMd1GLj-79">
-          <mxGeometry y="90.38944895020087" width="192.88888888888886" height="60" as="geometry" />
+          <mxGeometry y="94.38944895020087" width="192.88888888888886" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RUjL3g7LCfOquGMd1GLj-86" value="- Design foundation for future" style="fillColor=none;strokeColor=none;align=left;spacing=20;fontSize=14;" vertex="1" parent="RUjL3g7LCfOquGMd1GLj-79">
-          <mxGeometry y="144.81530136819134" width="179.1111111111111" height="30" as="geometry" />
+          <mxGeometry y="145.81530136819134" width="179.1111111111111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUjL3g7LCfOquGMd1GLj-84" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;GO" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#4EBCFC;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;spacingLeft=10;gradientColor=#7ea6e0;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="531" y="130" width="90" height="40" as="geometry" />
